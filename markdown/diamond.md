@@ -1,3 +1,0 @@
-# Diamond
-
->Let me alone
