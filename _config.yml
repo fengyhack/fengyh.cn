@@ -21,10 +21,8 @@ style:
 # notice: squared icons only work if supported by font-awesome
 
 links:
-  - link: {url: "http://fengyh.cn", square: true}
   - github: {url: "https://github.com/fengyhack/", square: true}
   - weibo: {url: "http://weibo.com/fengyhack", square: true}
-  - facebook: {url: "https://www.facebook.com/markf", square: true}
   - google-plus: {url: "https://plus.google.com/111357045355121677637", square: true}
 
 paginate: 10
