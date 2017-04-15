@@ -1,4 +1,4 @@
-title: "浮生若梦"
+title: "memleaks"
 author: "http://fengyh.cn"
 description: "爱科技，爱自然，爱生活"
 more: "read more »"
@@ -21,14 +21,11 @@ style:
 # notice: squared icons only work if supported by font-awesome
 
 links:
+  - link: {url: "http://fengyh.cn", square: true}
   - github: {url: "https://github.com/fengyhack/", square: true}
-#  - reddit: {url: "https://www.reddit.com/user/me/", square: true}
-#  - twitter: {url: "https://twitter.com/me/", square: true}
+  - weibo: {url: "http://weibo.com/fengyhack", square: true}
   - facebook: {url: "https://www.facebook.com/markf", square: true}
   - google-plus: {url: "https://plus.google.com/111357045355121677637", square: true}
-#  - youtube: {url: "https://www.youtube.com/user/me", square: true}
-#  - tumblr: {url: "http://me.tumblr.com/", square: true}
-#  - steam: {url: "http://steamcommunity.com/id/me/", square: true}
 
 paginate: 10
 excerpt_separator: "\n\n\n" # excerpt ends after two blank lines
