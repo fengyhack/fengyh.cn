@@ -5,8 +5,8 @@ more: "read more »"
 url: "http://memleaks.info"
 #baseurl: "/contrast" # comment out if in root directory
 
-comments:
-  disqus: "fengyhack"
+#comments:
+#  disqus: "fengyhack"
 #  isso: "comments.mysite.org"
 
 style:
