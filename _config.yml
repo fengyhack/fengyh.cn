@@ -26,7 +26,7 @@ links:
   - google-plus: {url: "https://plus.google.com/111357045355121677637", square: true}
 
 paginate: 10
-excerpt_separator: "\n\n\n" # excerpt ends after two blank lines
+excerpt_separator: "<!-- more -->" # excerpt ends after two blank lines
 permalink: pretty
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 gems: [jekyll-feed, jekyll-paginate] # include feed plugin (supported by gh-pages)
