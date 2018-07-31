@@ -1,4 +1,4 @@
-# hybrida.info
+# ychenblind.info
 
 Another blog site [ychenblind.info](http://ychenblind.info/)
 
