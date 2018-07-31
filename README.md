@@ -1,6 +1,6 @@
 # hybrida.info
 
-Another blog site [hybrida.info](http://hybrida.info/)
+Another blog site [ychenblind.info](http://ychenblind.info/)
 
 >So what is `hybrida`?
 
