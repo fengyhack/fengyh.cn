@@ -1,7 +1,3 @@
-# ychenblind.info
+# You are blind!
 
-Another blog site [ychenblind.info](http://ychenblind.info/)
-
->So what or who is `ychen`?
-
->She is a girl!
+Another blog site [CLOSED](https://fengyh.cn/)
