@@ -1,8 +1,8 @@
 title: "YH♡YC"
-author: "http://fengyh.cn"
+author: "https://fengyh.cn"
 description: "爱科技，爱自然，爱生活"
 more: "read more »"
-url: "CLOSED"
+url: "https://fengyh.cn"
 #baseurl: "/contrast" # comment out if in root directory
 
 #comments:
@@ -23,7 +23,7 @@ style:
 links:
   - github: {url: "https://github.com/fengyhack/", square: true}
 #  - weibo: {url: "http://weibo.com/fengyhack", square: true}
-  - google-plus: {url: "https://plus.google.com/111357045355121677637", square: true}
+#  - google-plus: {url: "https://plus.google.com/111357045355121677637", square: true}
 
 paginate: 10
 excerpt_separator: "<!-- more -->" # excerpt ends after two blank lines
