@@ -1,3 +1,3 @@
 # You are blind!
 
-Another jekyll [site](https://fengyh.cn/)
+Another jekyll [site](https://puerify.xyz/)
